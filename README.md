@@ -1,1 +1,1 @@
-# ticket_mixo_bot
+# tickety-magic
