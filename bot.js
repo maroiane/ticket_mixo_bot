@@ -1410,4 +1410,4 @@ if (err) console.error(err);
 })
       })
 
-client.login("NTYwNDI2NDc3ODU0NjU0NDY0.D3zx0A.odwxDXe4PD3BN_UU78WyhdrdmIU");
+client.login("botconfig.token");
